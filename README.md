@@ -57,3 +57,6 @@ Felhasznált módosítások
 ---
 
 [inline-style link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet?fbclid=IwAR1dwnTniMXlQPPQsFo1Zo8f-6oWqdyLADDJLG78e-tInqgPHL-vBqylQSs#emphasis)
+
+Kép:
+![alt text](https://smaller-pictures.appspot.com/images/dreamstime_xxl_65780868_small.jpg "Logo Title Text 1")
